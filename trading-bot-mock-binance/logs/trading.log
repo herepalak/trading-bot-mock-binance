@@ -1,0 +1,6 @@
+2025-08-29 20:44:36,020 | INFO | trading_bot | Using client mode: mock
+2025-08-29 20:44:36,021 | INFO | trading_bot | Placing order: OrderRequest(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None, stopPrice=None, clientOrderId=None)
+2025-08-29 20:44:36,139 | INFO | trading_bot | Using client mode: mock
+2025-08-29 20:44:36,139 | INFO | trading_bot | Placing order: OrderRequest(symbol='BTCUSDT', side='SELL', type='LIMIT', quantity=0.002, price=80000.0, stopPrice=None, clientOrderId=None)
+2025-08-29 20:48:14,363 | INFO | trading_bot | Using client mode: mock
+2025-08-29 20:48:14,363 | INFO | trading_bot | Placing order: OrderRequest(symbol='BTCUSDT', side='BUY', type='STOP_LIMIT', quantity=0.001, price=71000.0, stopPrice=70500.0, clientOrderId=None)
